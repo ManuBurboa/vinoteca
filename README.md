@@ -1,7 +1,7 @@
 # Proyecto: Vinoteca del Prado
 
 **Descripción**:
-Vinoteca del Prado es un emocionante proyecto que combina la pasión por el vino con la creatividad del diseño web. En el marco del curso "Codo a Codo de Full Stack en Python," hemos creado una plataforma virtual para los amantes del vino donde podrán explorar y descubrir una amplia variedad de vinos exquisitos. La Vinoteca del Prado no solo ofrece una selección única de vinos, sino que también proporciona una experiencia en línea elegante y atractiva para los usuarios.
+Vinoteca del Prado es un emocionante proyecto que combina la pasión por el vino con la creatividad del diseño web. En el marco del curso "Full Stack en Python de Codo a Codo" hemos creado una plataforma virtual para los amantes del vino donde podrán explorar y descubrir una amplia variedad de vinos exquisitos. La Vinoteca del Prado no solo ofrece una selección única de vinos, sino que también proporciona una experiencia en línea elegante y atractiva para los usuarios.
 
 **Tecnologías Utilizadas**:
 - HTML: Utilizamos HTML para construir la estructura de nuestra página web, creando una interfaz intuitiva y fácil de navegar.
