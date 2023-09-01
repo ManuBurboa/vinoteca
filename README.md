@@ -10,7 +10,6 @@ Vinoteca del Prado es un emocionante proyecto que combina la pasión por el vino
 **Características Destacadas**:
 - Catálogo de Vinos: Ofrecemos una amplia variedad de vinos con descripciones detalladas, notas de cata y maridajes sugeridos para ayudar a los usuarios a tomar decisiones informadas.
 - Diseño Elegante: Hemos trabajado en un diseño atractivo y moderno que refleja la sofisticación de los vinos que ofrecemos.
-- Búsqueda Intuitiva: Implementamos una función de búsqueda que permite a los usuarios encontrar fácilmente los vinos que desean explorar.
 - Sección de Blog: Compartimos contenido valioso sobre el mundo del vino, incluyendo artículos sobre regiones vinícolas, maridajes y consejos para catar vinos.
 
 **Objetivos Futuros**:
